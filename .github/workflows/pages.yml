@@ -31,6 +31,7 @@ jobs:
         run: |
           mkdir _site
           cp index.html style.css _site/
+          cp -R assets _site/
       - name: Website als Artefakt hochladen
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
