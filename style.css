@@ -1,5 +1,130 @@
-.links{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;margin-top:1.5rem}
-:root{--papier:#faf8f2;--tinte:#243e35;--salbei:#64775f;--linie:#d9dece;--gold:#a36b42}
-*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:6rem}body{margin:0;background:var(--papier);color:var(--tinte);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.75}a{color:inherit}a:focus-visible,summary:focus-visible{outline:3px solid var(--gold);outline-offset:5px}h1,h2,h3,p{margin-top:0}h1,h2,h3,.monogramm,.unterschrift{font-family:Georgia,"Times New Roman",serif;font-weight:400}h2{font-size:clamp(2rem,4vw,3.4rem);line-height:1.2;letter-spacing:-.035em;margin-bottom:1.5rem}h3{font-size:1.7rem;line-height:1.25;margin-bottom:1rem}.navigation{padding:1rem clamp(1rem,5vw,5rem);display:flex;justify-content:space-between;align-items:center;gap:1rem;border-bottom:1px solid var(--linie)}.monogramm{text-decoration:none;font-size:1.65rem;white-space:nowrap}.monogramm span{color:var(--gold);font-style:italic}.navigation nav{display:flex;gap:clamp(.8rem,2vw,2rem);flex-wrap:wrap}.navigation nav a{text-decoration:none;font-size:.85rem}.navigation nav a:hover{text-decoration:underline;text-underline-offset:6px}.hero{min-height:720px;min-height:min(850px,95svh);position:relative;display:grid;place-items:start center;text-align:center;overflow:hidden;background:#f0f0e6}.hero-text{z-index:1;padding:5rem 1rem 13rem}.eyebrow{text-transform:uppercase;letter-spacing:.2em;font-size:.72rem;font-weight:600;color:var(--salbei);margin-bottom:1.2rem}h1{font-size:clamp(3.5rem,9vw,8rem);letter-spacing:-.06em;line-height:1.08;margin-bottom:1.5rem}h1 span{font-style:italic;color:var(--gold)}.hero-subtitle{font-size:clamp(1rem,2vw,1.3rem)}.datum{letter-spacing:.12em;font-size:.9rem;margin:1.8rem 0 2rem}.datum span{margin:0 .7rem}.button{display:inline-flex;align-items:center;justify-content:center;gap:1.5rem;padding:.8rem 1.4rem;background:var(--tinte);color:var(--papier);text-decoration:none;border:1px solid var(--tinte);border-radius:3px;font-size:.9rem}.button:hover{background:#375345}.berge{position:absolute;width:100%;height:300px;bottom:0;left:0;pointer-events:none}.section{max-width:1120px;margin:auto;padding:5rem 1.5rem}.intro{max-width:740px;text-align:center;padding-top:6rem}.hinweis,.muted{color:#596957;font-size:.92rem}.hinweis{border-left:2px solid var(--gold);padding-left:1rem}.intro .hinweis{border:0;padding:0;font-style:italic}.section-heading{margin-bottom:2.5rem}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem}.card{border:1px solid var(--linie);border-radius:5px;padding:2rem}.nummer{display:block;font-family:Georgia,serif;font-size:2.2rem;color:#9caa8f;margin-bottom:2rem}.reise{background:#e8ecdf}.reise-inner{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center}.unterkunft{display:grid;grid-template-columns:1.5fr 1fr;border:1px solid var(--linie);border-radius:5px;overflow:hidden}.unterkunft>div:first-child{padding:2.5rem}.tag{display:inline-block;font-size:.75rem;color:var(--salbei);margin-bottom:1rem}.secondary{background:transparent;color:var(--tinte);gap:.8rem}.secondary:hover{background:#e8ecdf}.nacht{background:var(--tinte);color:#e4e9d6;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2rem}.nacht>span{font-size:5rem;line-height:1.5;color:#d5bd8c}.nacht p{font-family:Georgia,serif;font-size:2rem;line-height:1.3}.faq{max-width:850px}details{border-bottom:1px solid var(--linie);padding:1.2rem 0}summary{cursor:pointer;font-weight:500}details p{margin:1rem 0 .2rem;padding-left:1rem}.abschluss{text-align:center;padding:5rem 1.5rem;background:#e8ecdf}.unterschrift{font-size:2rem;font-style:italic;color:var(--gold);margin:0}footer{padding:2rem 1.5rem;text-align:center;font-size:.75rem;color:#596957}footer p{max-width:700px;margin:0 auto .5rem}.skip{position:absolute;left:1rem;top:-100px;background:var(--tinte);color:white;padding:.7rem;z-index:10}.skip:focus{top:1rem}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
-@media(max-width:700px){.navigation{align-items:flex-start}.navigation nav{justify-content:flex-end;max-width:240px;gap:.3rem 1rem}.hero-text{padding-top:4rem}.hero{min-height:650px}.cards,.reise-inner,.unterkunft{grid-template-columns:1fr}.reise-inner{gap:1rem}.section{padding:3.5rem 1.25rem}.card{padding:1.5rem}.nummer{margin-bottom:1rem}.unterkunft>div:first-child{padding:1.5rem}.nacht{padding:1.5rem}.nacht>span{font-size:3rem}.nacht p{font-size:1.5rem}.button{max-width:100%;text-align:center}.datum{font-size:.8rem}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+:root {
+  --papier: #fbf9f4;
+  --tinte: #534735;
+  --salbei: #76674d;
+  --linie: #d9ccba;
+  --gold: #f3d889;
+  --kraft: #a67c58;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 2rem; }
+body {
+  margin: 0;
+  background: var(--papier);
+  color: var(--tinte);
+  font-family: "Avenir Next", Avenir, "Century Gothic", "Segoe UI", sans-serif;
+  font-weight: 400;
+  line-height: 1.85;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-underline-offset: .25em; }
+a:focus-visible, summary:focus-visible { outline: 3px solid currentColor; outline-offset: 6px; }
+h1, h2, h3, p { margin-top: 0; }
+h1, h2, h3 { font-weight: 300; }
+h2 { font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.3; letter-spacing: .035em; margin-bottom: 1.5rem; }
+h3 { font-size: 1.45rem; line-height: 1.4; letter-spacing: .035em; margin-bottom: 1rem; }
+.navigation { padding: 1rem clamp(1rem, 5vw, 5rem); display: flex; justify-content: space-between; align-items: center; gap: 1rem; background: var(--papier); }
+.monogramm { text-decoration: none; font-size: 1.4rem; font-weight: 300; letter-spacing: .15em; white-space: nowrap; }
+.monogramm span { font-family: Georgia, serif; font-style: italic; }
+.navigation nav { display: flex; gap: clamp(.8rem, 2vw, 2rem); flex-wrap: wrap; }
+.navigation nav a { text-decoration: none; font-size: .73rem; letter-spacing: .12em; text-transform: uppercase; }
+.navigation nav a:hover { text-decoration: underline; }
+.hero, .reise, .nacht, .abschluss { background-color: var(--kraft); position: relative; isolation: isolate; }
+.hero::before, .reise::before, .nacht::before, .abschluss::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: .16;
+  filter: url(#papierstruktur);
+  background: #6d4e34;
+  pointer-events: none;
+}
+.hero { display: grid; place-items: center; text-align: center; overflow: hidden; color: #fffaf1; min-height: 760px; }
+.hero-text { width: min(100%, 1000px); padding: 3.6rem 1.5rem 4rem; }
+.eyebrow { text-transform: uppercase; letter-spacing: .27em; font-size: .72rem; font-weight: 500; color: var(--salbei); margin-bottom: 1.4rem; }
+.hero .eyebrow { color: #fffaf1; letter-spacing: .38em; }
+.gipfel { display: block; width: min(760px, 100%); height: auto; margin: 1rem auto 1.4rem; color: #fffaf1; }
+h1 { font-size: clamp(2.8rem, 7vw, 5.5rem); letter-spacing: .075em; text-transform: uppercase; line-height: 1.2; margin-bottom: 1.2rem; color: var(--gold); }
+h1 span { font-family: Georgia, serif; font-style: italic; font-weight: 400; }
+.hero-subtitle { font-size: clamp(.9rem, 2vw, 1.05rem); letter-spacing: .1em; }
+.datum { letter-spacing: .17em; font-size: .85rem; margin: 1.5rem 0 2rem; }
+.datum span { margin: 0 .7rem; }
+.button { display: inline-flex; align-items: center; justify-content: center; gap: 1.2rem; padding: .75rem 1.3rem; background: transparent; color: inherit; text-decoration: none; border: 1px solid currentColor; border-radius: 0; font-size: .82rem; letter-spacing: .045em; transition: background-color .2s; }
+.button:hover { background: #ffffff18; }
+.section { max-width: 1100px; margin: auto; padding: 5.5rem 1.5rem; }
+.intro { max-width: 760px; text-align: center; padding-top: 6.5rem; }
+.intro::after, .section-heading::after { content: "♥"; display: block; color: #9b8054; font-size: .85rem; margin-top: 1.7rem; }
+.hinweis, .muted { color: #746750; font-size: .9rem; }
+.hinweis { border-left: 1px solid currentColor; padding-left: 1rem; margin-top: 1.5rem; }
+.intro .hinweis { border: 0; padding: 0; }
+.section-heading { text-align: center; margin-bottom: 3rem; }
+.section-heading h2 { margin-bottom: 0; }
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; }
+.card { padding: 1.5rem 2rem; text-align: center; }
+.card + .card { border-left: 1px solid var(--linie); }
+.nummer { display: block; font-size: .8rem; letter-spacing: .2em; color: #8c7552; margin-bottom: 1.5rem; }
+.reise { color: #fffaf1; }
+.reise .eyebrow, .reise .hinweis { color: #fffaf1; }
+.reise-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
+.unterkunft { display: grid; grid-template-columns: 1.5fr 1fr; border: 1px solid var(--linie); }
+.unterkunft > div:first-child { padding: 2.5rem; }
+.tag { display: inline-block; font-size: .7rem; color: var(--salbei); margin-bottom: 1rem; letter-spacing: .08em; text-transform: uppercase; }
+.secondary:hover { background: #a67c5810; }
+.links { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-top: 1.5rem; }
+.nacht { color: #fffaf1; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 2rem; }
+.nacht > span { font-size: 5rem; line-height: 1.5; color: var(--gold); }
+.nacht p { font-size: 1.7rem; font-weight: 300; letter-spacing: .08em; line-height: 1.5; }
+.faq { max-width: 850px; }
+.tagesablauf { max-width: 850px; padding-top: 1rem; }
+.zeitplan { list-style: none; margin: 0; padding: 0; }
+.zeitplan li { display: grid; grid-template-columns: 10rem 1fr; gap: 2rem; position: relative; padding: 0 0 2.5rem; }
+.zeitplan li::before { content: ""; position: absolute; left: 10.5rem; top: .7rem; bottom: -.7rem; border-left: 1px solid var(--linie); }
+.zeitplan li::after { content: ""; position: absolute; left: calc(10.5rem - 3px); top: .7rem; width: 7px; height: 7px; border-radius: 50%; background: #977747; }
+.zeitplan li:last-child::before { display: none; }
+.zeitplan time { font-size: .85rem; letter-spacing: .06em; padding-top: .15rem; }
+.zeitplan h3 { font-size: 1.25rem; margin-bottom: .5rem; }
+.zeitplan p { margin-bottom: .5rem; }
+.zeitplan a { font-size: .85rem; }
+details { border-bottom: 1px solid var(--linie); padding: 1.3rem 0; }
+summary { cursor: pointer; font-weight: 400; }
+details p { margin: 1rem 0 .2rem; padding-left: 1rem; }
+.abschluss { text-align: center; padding: 5rem 1.5rem; color: #fffaf1; }
+.abschluss .eyebrow { color: #fffaf1; }
+.unterschrift { font-size: 1.5rem; font-weight: 300; letter-spacing: .13em; text-transform: uppercase; color: var(--gold); margin: 0; }
+footer { padding: 2rem 1.5rem; text-align: center; font-size: .72rem; color: #746750; }
+footer p { max-width: 700px; margin: 0 auto .5rem; }
+.skip { position: absolute; left: 1rem; top: -100px; background: var(--tinte); color: white; padding: .7rem; z-index: 10; }
+.skip:focus { top: 1rem; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+@media (max-width: 700px) {
+  .navigation { align-items: flex-start; }
+  .navigation nav { justify-content: flex-end; max-width: 240px; gap: .3rem 1rem; }
+  .navigation nav a { font-size: .65rem; }
+  .hero { min-height: 580px; }
+  .hero-text { padding: 3rem 1.25rem; }
+  .hero .eyebrow { font-size: .62rem; letter-spacing: .22em; }
+  h1 { font-size: clamp(2rem, 8vw, 3.5rem); letter-spacing: .04em; }
+  .gipfel { margin: 2rem auto; }
+  .cards, .reise-inner, .unterkunft { grid-template-columns: 1fr; }
+  .reise-inner { gap: 1rem; }
+  .section { padding: 3.5rem 1.25rem; }
+  .card { padding: 1.8rem 1rem; }
+  .card + .card { border-left: 0; border-top: 1px solid var(--linie); }
+  .nummer { margin-bottom: 1rem; }
+  .unterkunft > div:first-child { padding: 1.5rem; }
+  .nacht { padding: 1.5rem; }
+  .nacht > span { font-size: 3rem; }
+  .nacht p { font-size: 1.4rem; }
+  .button { max-width: 100%; text-align: center; }
+  .datum { font-size: .72rem; letter-spacing: .08em; }
+  .zeitplan li { grid-template-columns: 1fr; gap: .4rem; padding: 0 0 2rem 1.4rem; }
+  .zeitplan li::before { left: 0; }
+  .zeitplan li::after { left: -3px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .button { transition: none; }
+}
