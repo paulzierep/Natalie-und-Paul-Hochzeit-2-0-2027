@@ -45,8 +45,9 @@ h3 { font-size: 1.45rem; line-height: 1.4; letter-spacing: .035em; margin-bottom
 .hero-text { width: min(100%, 1000px); padding: 3.6rem 1.5rem 4rem; }
 .eyebrow { text-transform: uppercase; letter-spacing: .27em; font-size: .72rem; font-weight: 500; color: var(--salbei); margin-bottom: 1.4rem; }
 .hero .eyebrow { color: #fffaf1; letter-spacing: .38em; }
-.gipfel { display: block; width: min(760px, 100%); height: auto; margin: 1rem auto 1.4rem; color: #fffaf1; }
-h1 { font-size: clamp(2.8rem, 7vw, 5.5rem); letter-spacing: .075em; text-transform: uppercase; line-height: 1.2; margin-bottom: 1.2rem; color: var(--gold); }
+.gipfel { display: block; width: min(800px, 100%); height: auto; margin: 0 auto .4rem; }
+.filter-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+h1 { font-size: clamp(2.8rem, 7vw, 5.5rem); letter-spacing: .075em; text-transform: uppercase; line-height: 1.2; margin-bottom: 1.2rem; color: #fffaf1; font-weight: 200; }
 h1 span { font-family: Georgia, serif; font-style: italic; font-weight: 400; }
 .hero-subtitle { font-size: clamp(.9rem, 2vw, 1.05rem); letter-spacing: .1em; }
 .datum { letter-spacing: .17em; font-size: .85rem; margin: 1.5rem 0 2rem; }

@@ -6,6 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-03
 
+- **Neues Titelbild im Stil der Einladungskarte:** Oben auf der Startseite steht jetzt eine weiße Kreidezeichnung der Berge auf Kraftpapier, darüber im Bogen „Wir heiraten 2.0“. Die Namen sind nun weiß statt gold – passend zur Karte.
 - **Shuttle zur Feier ergänzt:** Unter „Anreise“ steht jetzt, dass Gäste, die nicht zu Fuß aufsteigen können, mit dem Shuttle zur Feier auf Pfarrers Älpele fahren können. Abfahrt ist am Parkplatz in Ebnit; der Abfahrtsort ist als Google-Maps-Link hinterlegt.
 - **„Gutes Nächtle.“:** Im Bereich „Übernachten“ ersetzt „Gutes Nächtle.“ den bisherigen Text „Gute Nacht.“
 - **Ursprüngliche Bergzeichnung wiederhergestellt:** Die Startseite verwendet wieder die erste Bergzeichnung. Die drei Alternativen (feine Federzeichnung, Berggravur, Alpenpanorama mit Hütte) bleiben als Backup unter `design-backups/` im Repository.
