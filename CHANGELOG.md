@@ -6,6 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-03
 
+- **Dresscode und Schuhwerk:** In den Fragen steht jetzt bei „Was sollen wir anziehen oder mitbringen?“ der Dresscode „festlich bergtauglich“. Die Kleidung soll zum Wetter passen, und für die etwa einstündige Wanderung über einen Wald- und Wiesenweg wird festes, taugliches Schuhwerk empfohlen.
 - **Aufenthalt vor und nach der Feier:** Unter „Übernachten“ steht jetzt, dass Natalie und Paul von Donnerstag, 10. Juni, bis Montag, 14. Juni 2027 vor Ort sind und sich freuen, wenn Gäste ein paar Tage länger bleiben, um mit ihnen zu wandern und eine gute Zeit zu haben.
 - **Buchung im Kolping-Feriendorf:** Unter „Übernachten“ steht jetzt, dass das Buchungssystem des Feriendorfs voraussichtlich im November bereit ist und Wohnungen dann gebucht werden können. Sobald es möglich ist, informieren wir die Gäste. Der Hinweis auf ein noch nicht angegebenes Kontingent ist dafür entfallen.
 - **Mit dem Bus anreisen:** Unter „Anreise“ steht jetzt, dass vom Bahnhof Dornbirn ein Bus nach Ebnit fährt, mit Link zum Busfahrplan von vmobil und dem Hinweis, vor der Reise die aktuellen Fahrzeiten zu prüfen.
