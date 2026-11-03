@@ -6,6 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-03
 
+- **Link zum Wandereinstieg:** Im Kasten „Wann?“ ist „Wandereinstieg“ jetzt ein Link. Er öffnet den Treffpunkt auf Google Maps in einem neuen Tab.
 - **Schlussbereich schlichter:** Der kleine Satz „Das Schönste seid ihr“ über „Wir freuen uns auf euch!“ ganz unten auf der Startseite ist entfernt.
 - **Berg klarer, Schrift wie auf der Karte:** Der Berg von der Einladungskarte ist jetzt kräftig weiß und scharf statt verwaschen (neu aus einem sauberen Screenshot der Karte gewonnen). Namen, Datum und „Wir heiraten 2.0“ stehen in der schlanken Schrift der Karte (Josefin Sans, direkt auf der Website eingebunden, ohne Google-Dienste).
 - **Berg wie auf der Einladungskarte:** Das Titelbild zeigt jetzt den Berg direkt von der Einladungskarte – mit der steilen Schneeflanke, der Kreideschraffur und den zackigen Bergketten. „Wir heiraten 2.0“ steht in der sauberen Schrift der Website im Bogen über dem Gipfel. Die bisherige Kreidezeichnung bleibt als Backup unter `design-backups/` im Repository.
