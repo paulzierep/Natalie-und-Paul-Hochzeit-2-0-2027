@@ -1,3 +1,5 @@
+@font-face { font-family: "Josefin Sans"; font-weight: 300; font-display: swap; src: url("assets/fonts/josefin-sans-latin-300.woff2") format("woff2"); }
+@font-face { font-family: "Josefin Sans"; font-weight: 400; font-display: swap; src: url("assets/fonts/josefin-sans-latin-400.woff2") format("woff2"); }
 :root {
   --papier: #fbf9f4;
   --tinte: #534735;
@@ -45,12 +47,14 @@ h3 { font-size: 1.45rem; line-height: 1.4; letter-spacing: .035em; margin-bottom
 .hero-text { width: min(100%, 1000px); padding: 3.6rem 1.5rem 4rem; }
 .eyebrow { text-transform: uppercase; letter-spacing: .27em; font-size: .72rem; font-weight: 500; color: var(--salbei); margin-bottom: 1.4rem; }
 .hero .eyebrow { color: #fffaf1; letter-spacing: .38em; }
-.gipfel { display: block; width: min(800px, 100%); height: auto; margin: 0 auto .4rem; }
+.gipfel { display: block; width: min(800px, 100%); height: auto; margin: 0 auto .4rem; overflow: visible; }
+.bogenschrift { fill: #fffaf1; font-family: "Josefin Sans", "Avenir Next", Avenir, "Century Gothic", sans-serif; font-weight: 400; font-size: 22px; letter-spacing: 7px; }
+.bogenschrift.klein { font-size: 15px; letter-spacing: 2px; }
 .filter-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
-h1 { font-size: clamp(2.8rem, 7vw, 5.5rem); letter-spacing: .075em; text-transform: uppercase; line-height: 1.2; margin-bottom: 1.2rem; color: #fffaf1; font-weight: 200; }
-h1 span { font-family: Georgia, serif; font-style: italic; font-weight: 400; }
+h1 { font-family: "Josefin Sans", "Avenir Next", Avenir, "Century Gothic", sans-serif; font-size: clamp(2.8rem, 7vw, 5.5rem); letter-spacing: .06em; text-transform: uppercase; line-height: 1.2; margin-bottom: 1.2rem; color: #fffaf1; font-weight: 300; }
+h1 span { font-family: inherit; font-style: normal; font-weight: 300; }
 .hero-subtitle { font-size: clamp(.9rem, 2vw, 1.05rem); letter-spacing: .1em; }
-.datum { letter-spacing: .17em; font-size: .85rem; margin: 1.5rem 0 2rem; }
+.datum { font-family: "Josefin Sans", "Avenir Next", Avenir, sans-serif; font-weight: 400; letter-spacing: .14em; font-size: 1rem; margin: 1.5rem 0 2rem; }
 .datum span { margin: 0 .7rem; }
 .button { display: inline-flex; align-items: center; justify-content: center; gap: 1.2rem; padding: .75rem 1.3rem; background: transparent; color: inherit; text-decoration: none; border: 1px solid currentColor; border-radius: 0; font-size: .82rem; letter-spacing: .045em; transition: background-color .2s; }
 .button:hover { background: #ffffff18; }
