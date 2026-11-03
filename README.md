@@ -8,7 +8,10 @@ Unsere Hochzeitswebsite mit Informationen zur Feier auf Pfarrers Älpele, zur An
 
 1. [`index.html`](index.html) öffnen und auf das Stiftsymbol klicken.
 2. Die gewünschten Texte ändern, z. B. Datum, Ablauf oder Unterkünfte. Die Bereiche sind nach ihren Überschriften gegliedert.
-3. Änderung auf `main` speichern. Unter **Actions** lässt sich die automatische Prüfung und Veröffentlichung verfolgen.
+3. Die Änderung zusätzlich in [`CHANGELOG.md`](CHANGELOG.md) eintragen – neuester Eintrag oben, Datum und kurze Beschreibung aus Sicht der Gäste.
+4. Änderung auf `main` speichern. Unter **Actions** lässt sich die automatische Prüfung und Veröffentlichung verfolgen.
+
+[`CHANGELOG.md`](CHANGELOG.md) dient nur der Nachvollziehbarkeit im Repository und wird nicht auf der Website veröffentlicht.
 
 Unbekannte Angaben sind ausdrücklich als offen beschrieben. Verlinkt sind der Ort der Feier auf Pfarrers Älpele, der Ausgangspunkt für den gemeinsamen Aufstieg sowie das Kolping-Feriendorf Ebnit als Übernachtungsmöglichkeit (Website und Google Maps). Verfügbarkeit und Konditionen müssen direkt mit der Unterkunft geklärt werden.
 
