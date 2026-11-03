@@ -6,6 +6,10 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-03
 
+- **Mit dem Bus anreisen:** Unter „Anreise“ steht jetzt, dass vom Bahnhof Dornbirn ein Bus nach Ebnit fährt, mit Link zum Busfahrplan von vmobil und dem Hinweis, vor der Reise die aktuellen Fahrzeiten zu prüfen.
+- **Campingplatz als Übernachtungsmöglichkeit:** Unter „Übernachten“ gibt es den Campingplatz Dornbirn unterhalb des Bergdorfs, mit Link. Dabei steht der Hinweis, dass man abends vom Bergdorf wieder hinunterfahren muss. Auch in den Fragen ist das ergänzt.
+- **Hütte für den Ausklang:** Im Tagesablauf steht beim Ausklang, dass wir eine Hütte mieten, in der abends im Bergdorf weitergefeiert wird.
+- **Essen beschrieben:** Beim Mittagessen steht jetzt: Die Hälfte ist vegetarisch (Käsefladen), dazu eine Fleischoption je nach Wetter, für Kinder Nudeln mit Tomatensauce, und auf jeden Fall à la carte mit Gerichten von der Alpe. Bei besonderen Wünschen sollen sich die Gäste melden.
 - **Link zum Wandereinstieg:** Im Kasten „Wann?“ ist „Wandereinstieg“ jetzt ein Link. Er öffnet den Treffpunkt auf Google Maps in einem neuen Tab.
 - **Schlussbereich schlichter:** Der kleine Satz „Das Schönste seid ihr“ über „Wir freuen uns auf euch!“ ganz unten auf der Startseite ist entfernt.
 - **Berg klarer, Schrift wie auf der Karte:** Der Berg von der Einladungskarte ist jetzt kräftig weiß und scharf statt verwaschen (neu aus einem sauberen Screenshot der Karte gewonnen). Namen, Datum und „Wir heiraten 2.0“ stehen in der schlanken Schrift der Karte (Josefin Sans, direkt auf der Website eingebunden, ohne Google-Dienste).
