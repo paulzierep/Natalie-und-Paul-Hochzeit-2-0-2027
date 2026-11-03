@@ -6,6 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-03
 
+- **Buchung im Kolping-Feriendorf:** Unter „Übernachten“ steht jetzt, dass das Buchungssystem des Feriendorfs voraussichtlich im November bereit ist und Wohnungen dann gebucht werden können. Sobald es möglich ist, informieren wir die Gäste. Der Hinweis auf ein noch nicht angegebenes Kontingent ist dafür entfallen.
 - **Mit dem Bus anreisen:** Unter „Anreise“ steht jetzt, dass vom Bahnhof Dornbirn ein Bus nach Ebnit fährt, mit Link zum Busfahrplan von vmobil und dem Hinweis, vor der Reise die aktuellen Fahrzeiten zu prüfen.
 - **Campingplatz als Übernachtungsmöglichkeit:** Unter „Übernachten“ gibt es den Campingplatz Dornbirn unterhalb des Bergdorfs, mit Link. Dabei steht der Hinweis, dass man abends vom Bergdorf wieder hinunterfahren muss. Auch in den Fragen ist das ergänzt.
 - **Hütte für den Ausklang:** Im Tagesablauf steht beim Ausklang, dass wir eine Hütte mieten, in der abends im Bergdorf weitergefeiert wird.
