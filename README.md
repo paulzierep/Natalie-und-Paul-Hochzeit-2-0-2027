@@ -1,6 +1,6 @@
 # Natalie & Paul · Hochzeit 2.0 · 2027
 
-Unsere deutschsprachige Hochzeitswebsite mit Informationen zur Feier auf Pfarrers Älpele, zur Anreise und zum Übernachten.
+Unsere Hochzeitswebsite mit Informationen zur Feier auf Pfarrers Älpele, zur Anreise und zum Übernachten.
 
 **Website:** https://paulzierep.github.io/Natalie-und-Paul-Hochzeit-2-0-2027/
 
