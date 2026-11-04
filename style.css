@@ -72,6 +72,10 @@ h1 span { font-family: inherit; font-style: normal; font-weight: 300; }
 .nummer { display: block; font-size: .8rem; letter-spacing: .2em; color: #8c7552; margin-bottom: 1.5rem; }
 .reise { color: #fffaf1; }
 .reise .eyebrow, .reise .hinweis { color: #fffaf1; }
+.weg + .weg { margin-top: 3rem; }
+.weg h3 { margin-bottom: 1rem; }
+.weg p { margin-bottom: 1.5rem; }
+.reise .hinweis { margin-top: 3rem; }
 .reise-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
 .unterkunft { display: grid; grid-template-columns: 1.5fr 1fr; border: 1px solid var(--linie); }
 .unterkunft > div:first-child { padding: 2.5rem; }

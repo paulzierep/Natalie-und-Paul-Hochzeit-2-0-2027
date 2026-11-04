@@ -6,6 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-04
 
+- **Anreise übersichtlicher:** Die drei Wege zur Feier („Zu Fuß“, „Mit dem Shuttle“, „Mit dem Bus“) sind jetzt gleich aufgebaut: Überschrift, kurzer Text, Button. Alle Überschriften sind gleich groß, und die Abstände dazwischen sind überall gleich. Der erste Block hat dafür die neue Überschrift „Zu Fuß zur Feier“; die Texte sind unverändert.
 - **Mittagessen neu beschrieben:** Beim Mittagessen steht jetzt, dass man zwischen einer vegetarischen Variante und einem Fleischgericht wählen kann. Die Gäste sollen vorher Bescheid geben, damit die Hüttencrew planen kann, und auch Unverträglichkeiten oder Allergien melden. Für die kleinen Gäste gibt es Nudeln mit Tomatensoße. Der bisherige Text mit Käsefladen, Wetterabhängigkeit und à la carte ist entfallen.
 - **Dresscode überarbeitet:** In den Fragen steht der Dresscode jetzt als „festlich-bergtauglich“ (mit Bindestrich). Neu ist der Hinweis, dass kurze Hosen und kurze Kleidung völlig in Ordnung sind. Der Satz zum Wetter ist entfallen, und für die einstündige Wanderung genügt „festes Schuhwerk“.
 
