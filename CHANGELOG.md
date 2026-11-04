@@ -4,6 +4,10 @@
 
 Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder den Bildern bekommt hier einen Eintrag – newest first, mit Datum und kurzer Beschreibung aus Sicht der Gäste.
 
+## 2026-11-04
+
+- **Dresscode überarbeitet:** In den Fragen steht der Dresscode jetzt als „festlich-bergtauglich“ (mit Bindestrich). Neu ist der Hinweis, dass kurze Hosen und kurze Kleidung völlig in Ordnung sind. Der Satz zum Wetter ist entfallen, und für die einstündige Wanderung genügt „festes Schuhwerk“.
+
 ## 2026-11-03
 
 - **Dresscode und Schuhwerk:** In den Fragen steht jetzt bei „Was sollen wir anziehen oder mitbringen?“ der Dresscode „festlich bergtauglich“. Die Kleidung soll zum Wetter passen, und für die etwa einstündige Wanderung über einen Wald- und Wiesenweg wird festes, taugliches Schuhwerk empfohlen.
