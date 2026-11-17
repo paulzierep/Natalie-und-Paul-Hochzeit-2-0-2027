@@ -6,7 +6,7 @@ Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder
 
 ## 2026-11-17
 
-- **Buchung im Kolping-Feriendorf aktualisiert:** Unter „Übernachten“ steht jetzt, dass das Buchungssystem des Feriendorfs noch nicht aktualisiert ist und derzeit keine Buchungen möglich sind. Sobald es geht, informieren wir die Gäste auf der Website. Bei der Buchung sollen Gäste angeben, dass sie Gast auf der Hochzeit von Natalie Sigg und Paul Zierep am 12.6. sind. Der Hinweis „voraussichtlich im November“ ist entfallen.
+- **Buchung im Kolping-Feriendorf aktualisiert:** Unter „Übernachten“ steht jetzt, dass das Buchungssystem des Feriendorfs gerade überarbeitet wird und noch nicht funktioniert. Sobald Buchungen wieder möglich sind, informieren wir die Gäste auf der Website. Es gibt bereits eine schriftliche Zusage, dass genügend Hütten für das Hochzeitsdatum zur Verfügung stehen. Bei der Buchung sollen Gäste angeben, dass sie Hochzeitsgäste bei Natalie und Paul auf Pfarrers Älpele sind, damit die Buchungen bevorzugt werden. Der Hinweis „voraussichtlich im November“ ist entfallen.
 
 ## 2026-11-04
 
