@@ -4,6 +4,10 @@
 
 Jede inhaltliche oder gestalterische Änderung an `index.html`, `style.css` oder den Bildern bekommt hier einen Eintrag – newest first, mit Datum und kurzer Beschreibung aus Sicht der Gäste.
 
+## 2026-11-17
+
+- **Buchung im Kolping-Feriendorf aktualisiert:** Unter „Übernachten“ steht jetzt, dass das Buchungssystem des Feriendorfs noch nicht aktualisiert ist und derzeit keine Buchungen möglich sind. Sobald es geht, informieren wir die Gäste auf der Website. Bei der Buchung sollen Gäste angeben, dass sie Gast auf der Hochzeit von Natalie Sigg und Paul Zierep am 12.6. sind. Der Hinweis „voraussichtlich im November“ ist entfallen.
+
 ## 2026-11-04
 
 - **Anreise übersichtlicher:** Die drei Wege zur Feier („Zu Fuß“, „Mit dem Shuttle“, „Mit dem Bus“) sind jetzt gleich aufgebaut: Überschrift, kurzer Text, Button. Alle Überschriften sind gleich groß, und die Abstände dazwischen sind überall gleich. Der erste Block hat dafür die neue Überschrift „Zu Fuß zur Feier“; die Texte sind unverändert.
